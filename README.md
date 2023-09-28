@@ -5,7 +5,7 @@
 
 - 🌱 I'm planning on learning **Mongo DB, Tailwind CSS**
 
-- 👯 I’m about to start collaborating with some peers on **an E-Commerce website**
+- 👯 I’m collaborating with some peers on **an E-Commerce website**
 
 - 👨‍💻 All of my projects are available at (coming soon!)
 
