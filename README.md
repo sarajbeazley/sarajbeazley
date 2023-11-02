@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
-<p align="center">A passionate full stack developer from London bringing something unique to software development with my creative and artistic background.</p>
+<b align="center">A passionate full stack developer from London bringing something unique to software development with my creative and artistic background.</b>
 
 - 👯 I’m currently collaborating with some peers on **an E-commerce website** called <a href="[desokan/ShopFront_Frontend](https://github.com/desokan/ShopFront_Frontend)">ShopFront</a>
 
