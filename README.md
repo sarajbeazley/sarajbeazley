@@ -1,20 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
 <h3 align="center">A passionate full stack developer from London bringing something unique to software development with my creative and artistic background.</h3>
 
-- 🔭 I’m currently working on [SJB STOCKROOM](https://github.com/sarajbeazley/SJB_Stockroom.git)
+- 👯 I’m currently collaborating with some peers on **an E-commerce website** called <a href="[desokan/ShopFront_Frontend](https://github.com/desokan/ShopFront_Frontend.git)">ShopFront</a>
 
-- 🌱 I'm planning on learning **Mongo DB, Tailwind CSS**
-
-- 👯 I’m collaborating with some peers on **an E-Commerce website**
-
-- 👨‍💻 All of my projects are available at (coming soon!)
-
-- 💬 Ask me about **React** 
+- 👨‍💻 All of my projects will be available at (coming soon!)
 
 - 📫 How to reach me **sarajbeazley@gmail.com**
 
 - 📄 Know about my experiences <a href="https://app.enhancv.com/share/14ab1f7e/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic">Click here for my CV</a>
-- ⚡ Fun fact **I'm really into tennis at the moment**
+
+- 🌱 I'm planning on learning **TypeScript, Tailwind CSS**
+  
+- ⚡ Fun fact **I've just joined a volleyball league**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
